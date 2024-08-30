@@ -8,8 +8,8 @@
 #### ![Fotografía de miembro 1](ruta/foto1.jpg)
 **Nombre:** Rafael Galindo Galindo 
 **Rol:** Ilustrador de juegos  
-**Ubicación:** [Bogotá,colombia]  
-**Perfil:** [].
+**Ubicación:** Bogotá,colombia  
+**Perfil:** Me apasiona la creacion de videojuegos y la creación de entornos, animacion y personajes, donde puedo explotar mi creatividad y poner en marcha los conocimientos obtenidos a lo largo de mi carrera, en mis tiempos libres me gusta leer y estudiar ingles.
 
 #### ![Fotografía de miembro 2](ruta/foto2.jpg)
 **Nombre:** Miembro 2  
