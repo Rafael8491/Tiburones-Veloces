@@ -33,7 +33,7 @@
 **Perfil:** [Breve descripción del perfil profesional o personal del miembro 2].
 
 #### ![Fotografía de miembro 5](ruta/foto2.jpg)
-**Nombre:** Miembro  5
-**Rol:** [Rol en la industria]  
-**Ubicación:** [Ciudad, País]  
-**Perfil:** [Breve descripción del perfil profesional o personal del miembro 2].
+**Nombre:** Karoll Lizeth Gómez Torres
+**Rol:** Game Designer 
+**Ubicación:** Bogotá, Colombia 
+**Perfil:** Soy Karoll Lizeth Gómez Torres, soy alguien a quien le gustan mucho los videojuegos y por ello es que mis expectativas con respecto a este proyecto es aprender a desenvolverme dentro de un grupo de trabajo que tiene como finalidad el desarrollo de un videojuego y adquirir experiencia de forma tanto individual como grupal a la hora de la creación de cada etapa de un proyecto de programación y diseño tan exigente como un videojuego. El rol de mi interés es el de “Game Designer” ya que me parece que este rol agrupa muchas de las cosas que le dan vida a un videojuego, lo encuentro interesante también ya que a pesar de mi poca experiencia, deseo realizar mis propios videojuegos de forma indie en algún punto de mi vida a futuro. 
