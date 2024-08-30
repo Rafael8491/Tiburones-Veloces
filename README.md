@@ -1,1 +1,1 @@
-####[Fotografía] (SALCHIPAPA.jpg)
+####(SALCHIPAPA.jpg)
