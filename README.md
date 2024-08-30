@@ -27,9 +27,13 @@
 
 #### ![Fotografía de miembro 4](0f844f00-64d1-4e00-a69d-495d090a410c.jpg)
 **Nombre:** Michel Pena
+
 **Rol:** Diseñador de niveles   
+
 **Ubicación:** Bogota/Colombia 
+
 **Perfil:** Soy estudiante de ingenieria multimedia, el rol que escogí fue (diseñador de niveles), ya que he tenido creatividad e inspiración en anteriores cursos y actividades para crear ambientes propicios para un juego, ambientes que realmente puedan sumergir al jugador en la historia o modo de juego. He estado limitado por no tener un conocimiento completo en programación, he realizado proyectos en visualstudio y unity pero siento que aun me falta un poco mas para dominar bien los programas y entender bien su funcionamiento. Daré todo de mi para aportar mis conocimientos a mis compañeros y para que nuestro grupo cumpla con las metas.Estoy cursando actualmente septimo semestre y soy asesor comercial en outsourcing BPO
+
 
 #### ![Fotografía de miembro 5](ruta/foto2.jpg)
 
