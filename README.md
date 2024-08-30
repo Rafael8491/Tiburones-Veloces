@@ -17,7 +17,8 @@
 **Ubicación:** [Ciudad, País]  
 **Perfil:** [Breve descripción del perfil profesional o personal del miembro 2].
 
-#### ![Fotografía de miembro 3](ruta/foto2.jpg)
+#### ![Fotografía de miembro 3](ruta/foto2.jpg).
+
 **Nombre:** Miembro  
 **Rol:** [Rol en la industria]  
 **Ubicación:** [Ciudad, País]  
