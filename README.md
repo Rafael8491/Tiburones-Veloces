@@ -2,4 +2,4 @@
 
 
 
-#### ![Fotografía de miembro 1](ruta/foto1.jpg)
+#### ![Fotografía de miembro 1](SALCHIPAPA.jpg)
