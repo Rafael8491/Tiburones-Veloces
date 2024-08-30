@@ -19,7 +19,7 @@
 **Rol:** Diseñador de niveles   
 **Ubicación:** Bogota/Colombia 
 **Perfil:** Soy estudiante de ingenieria multimedia, el rol que escogí fue (diseñador de niveles), ya que he tenido creatividad e inspiración en anteriores cursos y actividades para crear ambientes propicios para un juego, ambientes que realmente puedan sumergir al jugador en la historia o modo de juego. He estado limitado por no tener un conocimiento completo en programación, he realizado proyectos en visualstudio y unity pero siento que aun me falta un poco mas para dominar bien los programas y entender bien su funcionamiento. Daré todo de mi para aportar mis conocimientos a mis compañeros y para que nuestro grupo cumpla con las metas.Estoy cursando actualmente septimo semestre y soy asesor comercial en outsourcing BPO
-#### ![Fotografía de miembro 5](2349104287.jpg)
+#### ![Fotografía de miembro 5](https://github.com/user-attachments/assets/ab81a2ff-3630-42c2-8656-5c9ec3b775df)
 **Nombre:** Karoll Lizeth Gómez Torres
 **Rol:** Game Designer 
 **Ubicación:** Bogotá, Colombia 
