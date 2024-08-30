@@ -3,7 +3,6 @@
 
 
 
-#### ![Fotografía de miembro 1](SALCHIPAPA.jpg)
 ### Miembros:
 #### ![Fotografía de miembro 1](20230813_150431.jpg)
 **Nombre:** Rafael Galindo Galindo 
