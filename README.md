@@ -27,10 +27,10 @@
 **Perfil:** Mi nombre es Sebastián Iglesias. Me llama la atención el rol de "Game Artist" porque me apasiona la idea de dar vida a mundos y personajes a través del arte digital. Este rol me permite combinar creatividad, innovación y habilidades técnicas para transformar conceptos abstractos en experiencias visuales cautivadoras. Además, ofrece la oportunidad de especializarme en áreas como el diseño de personajes o la creación de entornos, lo que me permite desarrollar mi talento artístico mientras contribuyo al desarrollo de videojuegos que inspiran y entretienen a otros.
 
 #### ![Fotografía de miembro 4](ruta/foto2.jpg)
-**Nombre:** Miembro  4
-**Rol:** [Rol en la industria]  
-**Ubicación:** [Ciudad, País]  
-**Perfil:** [Breve descripción del perfil profesional o personal del miembro 2].
+**Nombre:** Michel Pena
+**Rol:** Diseñador de niveles   
+**Ubicación:** Bogota/Colombia 
+**Perfil:** Soy estudiante de ingenieria multimedia, el rol que escogí fue (diseñador de niveles), ya que he tenido creatividad e inspiración en anteriores cursos y actividades para crear ambientes propicios para un juego, ambientes que realmente puedan sumergir al jugador en la historia o modo de juego. He estado limitado por no tener un conocimiento completo en programación, he realizado proyectos en visualstudio y unity pero siento que aun me falta un poco mas para dominar bien los programas y entender bien su funcionamiento. Daré todo de mi para aportar mis conocimientos a mis compañeros y para que nuestro grupo cumpla con las metas.Estoy cursando actualmente septimo semestre y soy asesor comercial en outsourcing BPO
 
 #### ![Fotografía de miembro 5](ruta/foto2.jpg)
 
