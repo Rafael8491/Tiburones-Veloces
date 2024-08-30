@@ -1,1 +1,1 @@
-#### ![Fotografía de miembro 1](20230813_150431.jpg)
+#### ![Fotografía de miembro 1](SALCHIPAPA.jpg)
