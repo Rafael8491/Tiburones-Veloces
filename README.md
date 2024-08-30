@@ -11,7 +11,7 @@
 **Ubicación:** Bogotá,colombia  
 **Perfil:** Me apasiona la creacion de videojuegos y la creación de entornos, animacion y personajes, donde puedo explotar mi creatividad y poner en marcha los conocimientos obtenidos a lo largo de mi carrera, en mis tiempos libres me gusta leer y estudiar ingles.
 
-#### ![Fotografía de miembro 2](E:/Foto/Foto2.jpg)
+#### ![Fotografía de miembro 2](E:Foto/Foto2.jpg)
 **Nombre:** Andres Felipe Poveda Hoyos   
 **Rol:** Programador de videojuegos  
 **Ubicación:** Bogotá, Colombia  
