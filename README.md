@@ -14,7 +14,7 @@
 **Rol:** Programador de videojuegos  
 **Ubicación:** Bogotá, Colombia  
 **Perfil:** Hola mi nombre es Andres Poveda, soy parte del equipo de desarrollo de este proyecto me encanta aprender sobre tecnología, musica, diseño grafico, creacion de videojuegos y el ingles. estoy dispuesto a dar mis conocimientos para tener éxito en el proyecto del equipo.
-#### ![Fotografía de miembro 3](74665940698_25.jpg)
+#### ![Fotografía de miembro 3]([74665940698_25.jpg](https://github.com/user-attachments/assets/3271e5d5-45bd-44b6-96b0-58c705f0ade2))
 **Nombre:** Sebastian Andres Iglesias Tordecilla
 
 **Rol:** Game Artist
