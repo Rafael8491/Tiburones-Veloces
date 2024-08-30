@@ -11,11 +11,11 @@
 **Ubicación:** Bogotá,colombia  
 **Perfil:** Me apasiona la creacion de videojuegos y la creación de entornos, animacion y personajes, donde puedo explotar mi creatividad y poner en marcha los conocimientos obtenidos a lo largo de mi carrera, en mis tiempos libres me gusta leer y estudiar ingles.
 
-#### ![Fotografía de miembro 2](ruta/foto2.jpg)
-**Nombre:** Miembro 2  
-**Rol:** [Rol en la industria]  
-**Ubicación:** [Ciudad, País]  
-**Perfil:** [Breve descripción del perfil profesional o personal del miembro 2].
+#### ![Fotografía de miembro 2](E:/Foto/Foto2.jpg)
+**Nombre:** Andres Felipe Poveda Hoyos   
+**Rol:** Programador de videojuegos  
+**Ubicación:** Bogotá, Colombia  
+**Perfil:** Hola mi nombre es Andres Poveda, soy parte del equipo de desarrollo de este proyecto me encanta aprender sobre tecnología, musica, diseño grafico y videojuegos, estoy dispuesto a dar mis conocimientos para tener éxito en el proyecto del equipo.
 
 #### ![Fotografía de miembro 3](ruta/foto2.jpg)
 **Nombre:** Sebastian Andres Iglesias Tordecilla
