@@ -10,11 +10,11 @@
 **Ubicación:** Bogotá,colombia  
 **Perfil:** Me apasiona la creacion de videojuegos y la creación de entornos, animacion y personajes, donde puedo explotar mi creatividad y poner en marcha los conocimientos obtenidos a lo largo de mi carrera, en mis tiempos libres me gusta leer y estudiar ingles.
 
-#### ![Fotografía de miembro 2](![Foto2](https://github.com/user-attachments/assets/3c783ac1-9ba3-4dcf-b0a9-48974a887ecb)
+#### ![Fotografía de miembro 2](https://github.com/user-attachments/assets/3c783ac1-9ba3-4dcf-b0a9-48974a887ecb)
 **Nombre:** Andres Felipe Poveda Hoyos   
 **Rol:** Programador de videojuegos  
 **Ubicación:** Bogotá, Colombia  
-**Perfil:** Hola mi nombre es Andres Poveda, soy parte del equipo de desarrollo de este proyecto me encanta aprender sobre tecnología, musica, diseño grafico y videojuegos, estoy dispuesto a dar mis conocimientos para tener éxito en el proyecto del equipo.
+**Perfil:** Hola mi nombre es Andres Poveda, soy parte del equipo de desarrollo de este proyecto me encanta aprender sobre tecnología, musica, diseño grafico, creacion de videojuegos y el ingles. estoy dispuesto a dar mis conocimientos para tener éxito en el proyecto del equipo.
 
 #### ![Fotografía de miembro 3](74665940698_25.jpg)
 **Nombre:** Sebastian Andres Iglesias Tordecilla
