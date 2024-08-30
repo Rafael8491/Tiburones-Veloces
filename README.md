@@ -1,5 +1,4 @@
 # Tiburones-Veloces
-# Equipo Tiburones Veloces
 
 ## Presentación del Equipo 
 
