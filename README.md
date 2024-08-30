@@ -1,6 +1,6 @@
 # TIBURONES VELOCES
 
-#### ![Fotografía de miembro 1](20230813_150431.jpg)
+#### ![Fotografía de miembro 1](https://github.com/user-attachments/assets/f85cbab2-639d-4094-883d-615db244f5d9)
 **Nombre:** Rafael Galindo Galindo 
 **Rol:** Ilustrador de juegos  
 **Ubicación:** Bogotá,colombia  
